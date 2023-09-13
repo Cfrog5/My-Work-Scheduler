@@ -12,7 +12,7 @@ Gray is for passed the hour.
 If the page is refreshed the information should be saved in local storage. 
 
 ## Screenshot
-![Alt text](image.png)
+![Alt text](image-1.png)
 
 ## License
 
